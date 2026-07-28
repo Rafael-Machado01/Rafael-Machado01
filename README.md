@@ -25,7 +25,7 @@ Credits and references used in this README:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,php,cpp,py,git,figma&theme=light)](https://skillicons.dev)
 
-**Conhecimento em**: SQL, SH Linux.
+**Tenho expieriencia com**: SQL • Shell Linux • API REST • SEO • Deploy 
 
 
 ---
@@ -35,40 +35,40 @@ Credits and references used in this README:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+      <a href="https://github.com/Rafael-Machado01/ondeFica">
         <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
+             alt="OndeFica? Projeto"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <b>OndeFica?</b><br/>
+      <sub>Consulte CEPs brasileiros e exibe o endereço completo junto com um mapa interativo.</sub><br/>
+      🔗 <a href="https://github.com/Rafael-Machado01/ondeFica">Repo</a>
       <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+      <sub>Tags: NextJS, Consumo de API REST</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
         <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="CI/CD Pipeline Project"
+             alt="Dynasty8 Imobiliaria Projeto"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      <b>Dynasty8 </b><br/>
+      <sub>Gerenciamento imobiliario inspirado na imobiliaria Dynasty 8 do GTA 5</sub><br/>
       🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
       <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+      <sub>Tags: PHP, crud, adminPage</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
         <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
+             alt="Just a Notes Projeto"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      <b>Just a Notes</b><br/>
+      <sub>Para criar, editar e organizar anotações de forma simples e intuitiva.</sub><br/>
       🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
       <br/>
       <sub>Tags: Networking, AWS, Security</sub>
