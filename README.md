@@ -30,7 +30,7 @@ Credits and references used in this README:
 
 ---
 
-## Projects - showcase
+## Projetos
 
 <table>
   <tr>
