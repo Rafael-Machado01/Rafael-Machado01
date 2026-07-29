@@ -20,7 +20,7 @@ Credits and references used in this README:
 - 🚀 Em constante evolução, estudando Back-end, bancos de dados e boas práticas para me **tornar** um desenvolvedor **Full Stack**.
 
 
-## Skill stack
+## Stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,php,cpp,py,git,figma&theme=light)](https://skillicons.dev)
@@ -36,7 +36,7 @@ Credits and references used in this README:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Rafael-Machado01/ondeFica">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+        <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/ondeFica.gif"
              alt="OndeFica? Projeto"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -48,28 +48,28 @@ Credits and references used in this README:
       <sub>Tags: NextJS, Consumo de API REST</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+      <a href="https://github.com/Rafael-Machado01/los-santos">
+        <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/Screenshot%20from%202026-07-28%2012-40-53.png"
              alt="Dynasty8 Imobiliaria Projeto"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Dynasty8 </b><br/>
       <sub>Gerenciamento imobiliario inspirado na imobiliaria Dynasty 8 do GTA 5</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      🔗 <a href="hhttps://github.com/Rafael-Machado01/los-santos">Repo</a>
       <br/>
       <sub>Tags: PHP, crud, adminPage</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
+      <a href="https://github.com/Rafael-Machado01/notes">
+        <img src="https://github.com/Rafael-Machado01/Rafael-Machado01/blob/main/mockup.png"
              alt="Just a Notes Projeto"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Just a Notes</b><br/>
       <sub>Para criar, editar e organizar anotações de forma simples e intuitiva.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      🔗 <a href="https://github.com/Rafael-Machado01/notes">Repo</a>
       <br/>
       <sub>Tags: Networking, AWS, Security</sub>
     </td>
