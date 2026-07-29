@@ -86,6 +86,7 @@ Credits and references used in this README:
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Rafael-Machado01&langs_count=6&hide_values=true&theme=react)](https://github-stats-extended.vercel.app/api/top-langs?username=Rafael-Machado01&langs_count=6&hide_values=true&theme=react)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rafael-Machado01&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=Rafael-Machado01&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dracula)
 ---
 
 ## Links
