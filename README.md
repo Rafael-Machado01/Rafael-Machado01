@@ -85,8 +85,7 @@ Credits and references used in this README:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
-
+[![Rafael GitHub stats](https://github-stats-extended.vercel.app/api?username=Rafael-Machado01)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 ## Links
