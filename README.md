@@ -93,7 +93,7 @@ Credits and references used in this README:
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 - 📧 [**Me escreva um Email**](mailto:rafael.machado.ampudia01@gmail.com)
-- 💬 [**Fala comigo no WhatsApp](https://wa.me/5518997402328?text=Fala%20Dev!%20Vim%20pelo%20seu%20github)
+- 💬 [**Fala comigo no WhatsApp**](https://wa.me/5518997402328?text=Fala%20Dev!%20Vim%20pelo%20seu%20github)
 
 <a href="https://www.linkedin.com/in/rafael-machado-ampudia/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
