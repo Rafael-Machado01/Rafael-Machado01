@@ -12,7 +12,7 @@ Credits and references used in this README:
 -->
 
 # 🧠💻 Rafael Machado Ampudia
-**`Vencer é o que importa. O resto é a consequência`** 
+**`Vencer é o que importa. O resto é a consequência - Senna 🏁🇧🇷`** 
 
 ## Sobre Mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
