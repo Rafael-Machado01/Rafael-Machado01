@@ -35,6 +35,19 @@ Credits and references used in this README:
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://github.com/Rafael-Machado01/dev-sync">
+        <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/dev-sync.png"
+             alt="dev-sync Projeto"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>dev-sync 🦇</b><br/>
+      <sub>Rede social para devs: login social (Google/GitHub), feed com posts, likes e comentários — tema Dracula.</sub><br/>
+      🔗 <a href="https://github.com/Rafael-Machado01/dev-sync">Repo</a> • <a href="https://dev-sync-puce.vercel.app">Deploy</a>
+      <br/>
+      <sub>Tags: NextJS, Prisma, Auth.js, EdgeStore</sub>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/Rafael-Machado01/ondeFica">
         <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/ondeFica.gif"
              alt="OndeFica? Projeto"
@@ -56,22 +69,9 @@ Credits and references used in this README:
       <br/>
       <b>Dynasty8 </b><br/>
       <sub>Gerenciamento imobiliario inspirado na imobiliaria Dynasty 8 do GTA 5</sub><br/>
-      🔗 <a href="hhttps://github.com/Rafael-Machado01/los-santos">Repo</a>
+      🔗 <a href="https://github.com/Rafael-Machado01/los-santos">Repo</a>
       <br/>
       <sub>Tags: PHP, crud, adminPage</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Rafael-Machado01/notes">
-        <img src="https://github.com/Rafael-Machado01/Rafael-Machado01/blob/main/mockup.png"
-             alt="Just a Notes Projeto"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Just a Notes</b><br/>
-      <sub>Para criar, editar e organizar anotações de forma simples e intuitiva.</sub><br/>
-      🔗 <a href="https://github.com/Rafael-Machado01/notes">Repo</a>
-      <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
     </td>
   </tr>
 </table>
