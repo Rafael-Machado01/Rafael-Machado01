@@ -34,7 +34,7 @@ Credits and references used in this README:
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/Rafael-Machado01/dev-sync">
         <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/dev-sync.png"
              alt="dev-sync Projeto"
@@ -47,7 +47,7 @@ Credits and references used in this README:
       <br/>
       <sub>Tags: NextJS, Prisma, Auth.js, EdgeStore</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/Rafael-Machado01/ondeFica">
         <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/ondeFica.gif"
              alt="OndeFica? Projeto"
@@ -60,7 +60,9 @@ Credits and references used in this README:
       <br/>
       <sub>Tags: NextJS, Consumo de API REST</sub>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/Rafael-Machado01/los-santos">
         <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/Screenshot%20from%202026-07-28%2012-40-53.png"
              alt="Dynasty8 Imobiliaria Projeto"
@@ -72,6 +74,19 @@ Credits and references used in this README:
       🔗 <a href="https://github.com/Rafael-Machado01/los-santos">Repo</a>
       <br/>
       <sub>Tags: PHP, crud, adminPage</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Rafael-Machado01/rodeoArena">
+        <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/rodeoarena.png"
+             alt="rodeoArena Projeto"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>rodeoArena 🐂</b><br/>
+      <sub>Plataforma de gerenciamento e cronometragem oficial de rodeios: cadastro de competidores e animais, simulação de rounds com notas e ranking.</sub><br/>
+      🔗 <a href="https://github.com/Rafael-Machado01/rodeoArena">Repo</a> • <a href="https://rodeo-arena.vercel.app">Deploy</a>
+      <br/>
+      <sub>Tags: NextJS, Prisma, Auth.js, EdgeStore, shadcn/ui</sub>
     </td>
   </tr>
 </table>
@@ -101,6 +116,3 @@ Credits and references used in this README:
 <a href="https://www.instagram.com/amp_rafael_/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
-
-
-
