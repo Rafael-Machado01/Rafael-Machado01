@@ -12,12 +12,17 @@ Credits and references used in this README:
 -->
 
 # 🧠💻 Rafael Machado Ampudia
-**`Vencer é o que importa. O resto é a consequência - Senna 🏁🇧🇷`** 
+**`Vencer é o que importa. O resto é a consequência - Senna 🏁🇧🇷`**
+
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-%F0%9F%9F%A2-brightgreen?style=flat-square)](mailto:rafael.machado.ampudia01@gmail.com)
+[![Seguidores](https://img.shields.io/github/followers/Rafael-Machado01?style=flat-square&label=Seguidores&color=7c669d)](https://github.com/Rafael-Machado01)
+[![Stars](https://img.shields.io/github/stars/Rafael-Machado01?style=flat-square&label=Stars&color=black&labelColor=7c669d)](https://github.com/Rafael-Machado01)
 
 ## Sobre Mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 - ⚛️ Desenvolvedor Front-end com foco em React, Next.js, TypeScript e Tailwind CSS.
 - 🚀 Em constante evolução, estudando Back-end, bancos de dados e boas práticas para me **tornar** um desenvolvedor **Full Stack**.
+- 📍 Baseado em Assis - SP, Brasil.
 
 
 ## Stack
@@ -25,12 +30,16 @@ Credits and references used in this README:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,php,cpp,py,git,figma&theme=light)](https://skillicons.dev)
 
-**Tenho expieriencia com**: SQL • Shell Linux • API REST • SEO • Deploy 
+**Tenho expieriencia com**: SQL • Shell Linux • API REST • SEO • Deploy
+
+**Aprendendo agora** 🚧: Prisma • PostgreSQL • Docker • Supabase • Vercel
+
+[![Learning](https://skillicons.dev/icons?i=prisma,postgres,docker,supabase,vercel&theme=light)](https://skillicons.dev)
 
 
 ---
 
-## Projetos
+## 🚀 Projetos
 
 <table>
   <tr>
@@ -43,7 +52,7 @@ Credits and references used in this README:
       <br/>
       <b>dev-sync 🦇</b><br/>
       <sub>Rede social para devs: login social (Google/GitHub), feed com posts, likes e comentários — tema Dracula.</sub><br/>
-      🔗 <a href="https://github.com/Rafael-Machado01/dev-sync">Repo</a> • <a href="https://dev-sync-puce.vercel.app">Deploy</a>
+      🔗 <a href="https://github.com/Rafael-Machado01/dev-sync">Repo</a> • <a href="https://dev-sync-puce.vercel.app">🔗 Deploy</a>
       <br/>
       <sub>Tags: NextJS, Prisma, Auth.js, EdgeStore</sub>
     </td>
@@ -82,9 +91,9 @@ Credits and references used in this README:
              style="width:100%"/>
       </a>
       <br/>
-      <b>rodeoArena 🐂</b><br/>
+      <b>rodeoArena 🐂 🏆</b><br/>
       <sub>Plataforma de gerenciamento e cronometragem oficial de rodeios: cadastro de competidores e animais, simulação de rounds com notas e ranking.</sub><br/>
-      🔗 <a href="https://github.com/Rafael-Machado01/rodeoArena">Repo</a> • <a href="https://rodeo-arena.vercel.app">Deploy</a>
+      🔗 <a href="https://github.com/Rafael-Machado01/rodeoArena">Repo</a> • <a href="https://rodeo-arena.vercel.app">🔗 Deploy</a>
       <br/>
       <sub>Tags: NextJS, Prisma, Auth.js, EdgeStore, shadcn/ui</sub>
     </td>
@@ -102,17 +111,12 @@ Credits and references used in this README:
      Docs: https://github.com/anuraghazra/github-readme-stats -->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Rafael-Machado01&langs_count=6&hide_values=true&theme=react)](https://github-stats-extended.vercel.app/api/top-langs?username=Rafael-Machado01&langs_count=6&hide_values=true&theme=react)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rafael-Machado01&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=Rafael-Machado01&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Machado01&theme=dracula&hide_border=true&locale=pt_BR)](https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Machado01&theme=dracula&hide_border=true&locale=pt_BR)
 ---
 
-## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- 📧 [**Me escreva um Email**](mailto:rafael.machado.ampudia01@gmail.com)
-- 💬 [**Fala comigo no WhatsApp**](https://wa.me/5518997402328?text=Fala%20Dev!%20Vim%20pelo%20seu%20github)
+## 📬 Vamos conversar?
 
-<a href="https://www.linkedin.com/in/rafael-machado-ampudia/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/amp_rafael_/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
+**Tem um projeto, uma vaga ou só quer trocar uma ideia? Me chama!**
+
+[![Email](https://img.shields.io/badge/Email-rafael.machado.ampudia01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.machado.ampudia01@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518997402328?text=Fala%20Dev!%20Vim%20pelo%20seu%20github)
