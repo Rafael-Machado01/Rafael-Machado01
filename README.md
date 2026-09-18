@@ -28,15 +28,15 @@ Credits and references used in this README:
 ## Stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,php,cpp,py,git,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,prisma,supabase,vercel,cpp,py,git,figma&theme=light)](https://skillicons.dev)
 
-**Tenho expieriencia com**: SQL • Shell Linux • API REST • SEO • Deploy
+**Tenho expieriencia com**: SQL • Shell Linux • API REST • SEO • Deploy • PHP
 
-[![Experience](https://skillicons.dev/icons?i=mysql,bash,postman,vercel,linux&theme=light)](https://skillicons.dev)
+[![Experience](https://skillicons.dev/icons?i=php,mysql,bash,postman,linux&theme=light)](https://skillicons.dev)
 
-**Aprendendo agora** 🚧: Prisma • PostgreSQL • Supabase • Vercel • C# • Java
+**Aprendendo agora** 🚧: PostgreSQL • C# • Java
 
-[![Learning](https://skillicons.dev/icons?i=prisma,postgres,supabase,vercel,cs,java&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=postgres,cs,java&theme=light)](https://skillicons.dev)
 
 
 ---
