@@ -22,7 +22,7 @@ Credits and references used in this README:
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 - ⚛️ Desenvolvedor Front-end com foco em React, Next.js, TypeScript e Tailwind CSS.
 - 🚀 Em constante evolução, estudando Back-end, bancos de dados e boas práticas para me **tornar** um desenvolvedor **Full Stack**.
-- 📍 Baseado em Assis - SP, Brasil.
+- 📍 Assis - SP, Brasil.
 
 
 ## Stack
@@ -32,7 +32,7 @@ Credits and references used in this README:
 
 **Tenho expieriencia com**: SQL • Shell Linux • API REST • SEO • Deploy
 
-[![Experience](https://skillicons.dev/icons?i=mysql,bash,postman,vercel&theme=light)](https://skillicons.dev)
+[![Experience](https://skillicons.dev/icons?i=mysql,bash,postman,vercel,linux&theme=light)](https://skillicons.dev)
 
 **Aprendendo agora** 🚧: Prisma • PostgreSQL • Supabase • Vercel • C# • Java
 
