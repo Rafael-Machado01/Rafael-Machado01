@@ -32,9 +32,11 @@ Credits and references used in this README:
 
 **Tenho expieriencia com**: SQL • Shell Linux • API REST • SEO • Deploy
 
-**Aprendendo agora** 🚧: Prisma • PostgreSQL • Docker • Supabase • Vercel
+[![Experience](https://skillicons.dev/icons?i=mysql,bash,postman,vercel&theme=light)](https://skillicons.dev)
 
-[![Learning](https://skillicons.dev/icons?i=prisma,postgres,docker,supabase,vercel&theme=light)](https://skillicons.dev)
+**Aprendendo agora** 🚧: Prisma • PostgreSQL • Supabase • Vercel • C# • Java
+
+[![Learning](https://skillicons.dev/icons?i=prisma,postgres,supabase,vercel,cs,java&theme=light)](https://skillicons.dev)
 
 
 ---
