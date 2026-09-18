@@ -38,7 +38,7 @@ Credits and references used in this README:
       <a href="https://github.com/Rafael-Machado01/dev-sync">
         <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/dev-sync.png"
              alt="dev-sync Projeto"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%"/>
       </a>
       <br/>
       <b>dev-sync 🦇</b><br/>
@@ -51,7 +51,7 @@ Credits and references used in this README:
       <a href="https://github.com/Rafael-Machado01/ondeFica">
         <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/ondeFica.gif"
              alt="OndeFica? Projeto"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%"/>
       </a>
       <br/>
       <b>OndeFica?</b><br/>
@@ -66,7 +66,7 @@ Credits and references used in this README:
       <a href="https://github.com/Rafael-Machado01/los-santos">
         <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/Screenshot%20from%202026-07-28%2012-40-53.png"
              alt="Dynasty8 Imobiliaria Projeto"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%"/>
       </a>
       <br/>
       <b>Dynasty8 </b><br/>
@@ -79,7 +79,7 @@ Credits and references used in this README:
       <a href="https://github.com/Rafael-Machado01/rodeoArena">
         <img src="https://raw.githubusercontent.com/Rafael-Machado01/Rafael-Machado01/refs/heads/main/rodeoarena.png"
              alt="rodeoArena Projeto"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%"/>
       </a>
       <br/>
       <b>rodeoArena 🐂</b><br/>
